@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('frontend/layouts/base');
+    return view('frontend.layouts.base');
 });
 
 Route::middleware([
