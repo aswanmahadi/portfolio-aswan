@@ -428,7 +428,7 @@
                         <div class="info-box">
                             <i class="bi bi-geo-alt"></i>
                             <h3>Address</h3>
-                            <p>Jeneponto,<br>South Sulawesi, Indonesia</p>
+                            <p>Jeneponto, South Sulawesi, Indonesia</p>
                         </div>
                     </div>
                     <div class="col-md-3">
@@ -442,14 +442,14 @@
                         <div class="info-box">
                             <i class="bi bi-envelope"></i>
                             <h3>Email</h3>
-                            <p>aswanmuhammad89@gmail.com<br>muhaswan190897@gmail.com</p>
+                            <p>aswanmuhammad89@gmail.com</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="info-box">
                             <i class="bi bi-clock"></i>
                             <h3>Open Hours</h3>
-                            <p>Monday - Friday<br>9:00AM - 05:00PM</p>
+                            <p>Monday - Friday | 9:00AM - 05:00PM</p>
                         </div>
                     </div>
 
